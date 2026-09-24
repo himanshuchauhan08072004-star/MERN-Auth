@@ -3,6 +3,8 @@
 Production-style auth system: React/Vite/Tailwind frontend + Node/Express/MongoDB backend,
 using short-lived access tokens and long-lived, rotating refresh tokens.
 
+## LIVE - https://mern-auth-tan-sigma.vercel.app/
+
 ## Folder Structure
 
 ```
